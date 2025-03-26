@@ -1,0 +1,10 @@
+C:\Users\Usuário\source\repos\AgendaUsuariosMVC\AgendaUsuariosMVC\bin\Debug\AgendaUsuariosMVC.exe.config
+C:\Users\Usuário\source\repos\AgendaUsuariosMVC\AgendaUsuariosMVC\bin\Debug\AgendaUsuariosMVC.exe
+C:\Users\Usuário\source\repos\AgendaUsuariosMVC\AgendaUsuariosMVC\bin\Debug\AgendaUsuariosMVC.pdb
+C:\Users\Usuário\source\repos\AgendaUsuariosMVC\AgendaUsuariosMVC\obj\Debug\AgendaUsuariosMVC.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\AgendaUsuariosMVC\AgendaUsuariosMVC\obj\Debug\AgendaUsuariosMVC.Properties.Resources.resources
+C:\Users\Usuário\source\repos\AgendaUsuariosMVC\AgendaUsuariosMVC\obj\Debug\AgendaUsuariosMVC.Form1.resources
+C:\Users\Usuário\source\repos\AgendaUsuariosMVC\AgendaUsuariosMVC\obj\Debug\AgendaUsuariosMVC.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\AgendaUsuariosMVC\AgendaUsuariosMVC\obj\Debug\AgendaUsuariosMVC.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\AgendaUsuariosMVC\AgendaUsuariosMVC\obj\Debug\AgendaUsuariosMVC.exe
+C:\Users\Usuário\source\repos\AgendaUsuariosMVC\AgendaUsuariosMVC\obj\Debug\AgendaUsuariosMVC.pdb
